@@ -7,5 +7,6 @@
 * Linterna Verde
 * Robin
 * Volcán Negro
-* La paisana Jacinta
-* Miguel Grau Seminario
+* Don José de San Martín
+* Miguel Grau
+* Ramón Castilla
