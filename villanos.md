@@ -7,3 +7,5 @@
 4. Doomsday
 5. Deadshot
 6. Pandemia Covid19
+7. Guerra mundial
+8. Ataque cibernético
