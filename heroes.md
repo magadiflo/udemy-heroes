@@ -7,5 +7,6 @@
 * Linterna Verde
 * Robin
 * Volcán Negro
-* La paisana Jacinta
+* Alfonso Ugarte
 * Miguel Grau Seminario
+* Andrés Avelino Cáceres
